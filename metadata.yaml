@@ -1,0 +1,44 @@
+_repo: Sa-Ano-Nabubuhay-Ang-Tao_15628
+_version: 0.1.0
+alternative_title: What Men Live By
+contributor:
+  translator:
+    agent_name: Calderón, Sofronio G.
+    aliases:
+    - Calderon, Sofronio G.
+    - Calderón, S. G. (Sofronio G.)
+    birthdate: 1878
+    deathdate: 1953
+    gutenberg_agent_id: '6178'
+    url: http://www.gutenberg.org/2009/agents/6178
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Толстой, Лев Николаевич
+    - Tolstoy, Lev N.
+    - Tolstoi, Leo
+    - Tolstoy, Graf Leo
+    - Tolstoï, Léon
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2005-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15628'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Russian -- Translations into Tagalog'
+- !lcc 'PG'
+title: Sa Ano Nabubuhay Ang Tao
+url: http://www.gutenberg.org/ebooks/15628
